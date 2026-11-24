@@ -254,7 +254,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/b85ae604-30e2-4ecd-9265-3108bfa82999")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -568,7 +568,7 @@
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/622e94be-4f93-469e-b498-67f8e0d2f90f")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -907,7 +907,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -977,7 +977,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c206bbfc-0fe8-442a-bcda-3c65641af0e3")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1104,7 +1104,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -1174,7 +1174,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9caba7d7-31fc-463d-bdda-e7f14746a786")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1415,7 +1415,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/24946bb2-47f6-441b-bfa0-26440dd0778b")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -1558,7 +1558,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/fb22862f-d8e9-45bd-b4bf-f4177fd478a2")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1800,7 +1800,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2414602d-5f04-4841-bcf8-9642af9ae138")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1927,7 +1927,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -1997,7 +1997,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6617569c-8375-4daf-9eb2-733eacd407ce")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2124,7 +2124,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -2194,7 +2194,7 @@
 		(property ki_fp_filters "SOT* SC*")
 		(path "/9280b6c6-3ed0-417a-a3cb-a1da4bbdfc42")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2441,7 +2441,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/2eebf8ae-4dbc-4bae-8b22-1f9cea36365c")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2683,7 +2683,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/912c1b5a-2d10-4a19-9d88-7dfa34f4607a")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2925,7 +2925,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/ac10dca6-309e-4d02-82d1-8c41fe7b5705")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3167,7 +3167,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/dab96b5d-05e2-4f9d-9bae-a6444c247957")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3294,7 +3294,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -3364,7 +3364,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b5b3a945-875f-4f05-baa3-f3dc6685d59a")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3606,7 +3606,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/041d1dae-0667-4d22-bc9a-06b401c23130")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3733,7 +3733,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -3803,7 +3803,7 @@
 		(property ki_fp_filters "SG-* SOT*")
 		(path "/adf0c83b-41eb-41c5-a1ac-5d7885f14a27")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4054,7 +4054,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/081b0140-b043-4dfd-9ed2-fcaba26a6853")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4181,7 +4181,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -4251,7 +4251,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/2d012785-e751-4e24-8e26-be8d0bcfa5ee")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4493,7 +4493,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4749b7f5-8efa-43c1-89b2-55832436b106")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4620,7 +4620,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -4689,7 +4689,7 @@
 		)
 		(path "/1ad629b6-e179-4873-973e-641c256d7b56")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4884,7 +4884,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -4954,7 +4954,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6c3f258d-60ea-4a32-94f7-6690a327c1b0")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5081,7 +5081,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -5150,7 +5150,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/01ae533c-1a68-44df-9d76-917f84fa4e0c")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -5292,7 +5292,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/6b1e6e81-36c3-4b94-ac10-a1fbfcf4fed9")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -5435,7 +5435,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/33332d4f-2cea-41d0-bcee-1e1fe5e2a88e")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5562,7 +5562,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -5632,7 +5632,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/51ea546d-5295-422a-8716-d373fdf2d6b5")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5759,7 +5759,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -5829,7 +5829,7 @@
 		(property ki_fp_filters "DIP?20*")
 		(path "/fbe85a0b-cd0f-4b99-8451-6a2ce5e70bc9")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6243,7 +6243,7 @@
 		(property ki_fp_filters "DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* SSOP*5.3x6.2mm*P0.65mm*")
 		(path "/0635aaac-bc5d-4190-8647-42f547b0c343")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6621,7 +6621,7 @@
 		(property ki_fp_filters "SOT* SG-*")
 		(path "/6150be1f-4653-4439-b03a-19a6a8670ce4")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6864,7 +6864,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/001bf5de-2577-40e8-a72d-ca43adff45af")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6991,7 +6991,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -7060,7 +7060,7 @@
 		)
 		(path "/c1e28f0f-5ec2-4463-9032-523fb11e58ed")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7583,7 +7583,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/008bfc59-7853-4e03-9ea1-008ee5f5e44f")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7833,7 +7833,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/6bc39883-1b84-47ec-afce-c32fcbb1d038")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8029,7 +8029,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/bb4d8c31-3978-4345-a420-44c4474b7d19")
 		(sheetname "/")
-		(sheetfile "ft245_6502.kicad_sch")
+		(sheetfile "replacia.kicad_sch")
 		(units
 			(unit
 				(name "A")

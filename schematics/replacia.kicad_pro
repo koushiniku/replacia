@@ -540,7 +540,7 @@
     ]
   },
   "meta": {
-    "filename": "ft245_6502.kicad_pro",
+    "filename": "replacia.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -777,7 +777,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "ft245_6502.kicad_sch",
+        "filename": "replacia.kicad_sch",
         "name": "Root",
         "uuid": "7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
       }

@@ -8545,7 +8545,7 @@
 			(uuid "f249e3b6-93f8-4393-9ca7-9311baff68ec")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "R10")
 					(unit 1)
@@ -8637,7 +8637,7 @@
 			(uuid "d725e4f6-cfa4-4d64-9428-241f7be43868")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "C3")
 					(unit 1)
@@ -8727,7 +8727,7 @@
 			(uuid "f4f3dc6c-808d-454b-94f9-d7982f131216")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "D1")
 					(unit 1)
@@ -8817,7 +8817,7 @@
 			(uuid "dc34cc08-bb5e-4ede-a23a-a6beab8e568d")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "R2")
 					(unit 1)
@@ -8954,7 +8954,7 @@
 			(uuid "b4b624ad-0104-447b-969e-d6c45dc6fbe7")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "U6")
 					(unit 1)
@@ -9044,7 +9044,7 @@
 			(uuid "7072c44a-e496-47a9-ad2d-89465e014505")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "R5")
 					(unit 1)
@@ -9121,7 +9121,7 @@
 			(uuid "dacb3218-8257-4bb1-a2f3-09c7fa4ef89b")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR038")
 					(unit 1)
@@ -9216,7 +9216,7 @@
 			(uuid "5b03cf61-a18a-43f1-aa34-389f3176f127")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "Q1")
 					(unit 1)
@@ -9306,7 +9306,7 @@
 			(uuid "f74002d2-583a-49c0-9dea-6cc42aee7da2")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "R6")
 					(unit 1)
@@ -9398,7 +9398,7 @@
 			(uuid "8c2085f0-5ee9-4b50-a7a9-e5131380d030")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "D3")
 					(unit 1)
@@ -9475,7 +9475,7 @@
 			(uuid "5961c77b-5961-4543-98ec-2b892a1678f1")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR025")
 					(unit 1)
@@ -9552,7 +9552,7 @@
 			(uuid "e94e43f9-5136-44ff-98a8-743813c53a18")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR033")
 					(unit 1)
@@ -9644,7 +9644,7 @@
 			(uuid "07fbfeef-bb35-4a13-b531-ef594ba24da3")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "C7")
 					(unit 1)
@@ -9736,7 +9736,7 @@
 			(uuid "05a210e6-bc7e-4f8b-b40a-a75dcc204eb4")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "C1")
 					(unit 1)
@@ -9828,7 +9828,7 @@
 			(uuid "7f71ec26-169c-4d00-9f3d-29066927f9f8")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "R1")
 					(unit 1)
@@ -9905,7 +9905,7 @@
 			(uuid "2d17ca7a-8300-42fa-b00d-f8b82aaac293")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR034")
 					(unit 1)
@@ -9982,7 +9982,7 @@
 			(uuid "0fe31cb2-6897-472d-a9ef-ac0673c7a8a0")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR01")
 					(unit 1)
@@ -10059,7 +10059,7 @@
 			(uuid "c0033e9e-21c2-4adb-bdc4-9631d38ad7d5")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR08")
 					(unit 1)
@@ -10137,7 +10137,7 @@
 			(uuid "e6feb936-3551-460d-a51c-9139dc9af66a")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR028")
 					(unit 1)
@@ -10229,7 +10229,7 @@
 			(uuid "6bf4a3ad-30e4-47e2-8ad4-682f1d21442c")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "R11")
 					(unit 1)
@@ -10307,7 +10307,7 @@
 			(uuid "a20623f9-34e8-48d5-97d2-91bdb8f885da")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#FLG02")
 					(unit 1)
@@ -10384,7 +10384,7 @@
 			(uuid "8ac5e163-0a7e-4fbd-a921-c5cb84bca91b")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR09")
 					(unit 1)
@@ -10474,7 +10474,7 @@
 			(uuid "02e2e016-737f-4e1c-bf71-2a903aceb306")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "R4")
 					(unit 1)
@@ -10551,7 +10551,7 @@
 			(uuid "7646f812-8280-4c00-97fa-178872f3e03d")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR011")
 					(unit 1)
@@ -10628,7 +10628,7 @@
 			(uuid "646f3f19-1a92-4348-b43b-f9b681af7f5f")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR05")
 					(unit 1)
@@ -10732,7 +10732,7 @@
 			(uuid "2ff24e51-aafb-4dd1-bded-551e1d6675f7")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "U5")
 					(unit 1)
@@ -10876,7 +10876,7 @@
 			(uuid "827a550a-3051-448a-af30-30ae9a67453b")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "J1")
 					(unit 1)
@@ -10966,7 +10966,7 @@
 			(uuid "69e9ffeb-c091-4f4a-95f7-eeae017593dc")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "R8")
 					(unit 1)
@@ -11058,7 +11058,7 @@
 			(uuid "dff62dfc-265a-4dd7-80fa-e01c8a99b99f")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "D2")
 					(unit 1)
@@ -11162,7 +11162,7 @@
 			(uuid "645a92e8-46e9-4e14-8ba8-64d7ffd026f7")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "U4")
 					(unit 3)
@@ -11272,7 +11272,7 @@
 			(uuid "0bc55da3-1285-46ce-99b4-a9f428f6b023")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "J3")
 					(unit 1)
@@ -11364,7 +11364,7 @@
 			(uuid "2ce3ddfb-0a72-4fa9-b905-39a8ce2a2670")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "R3")
 					(unit 1)
@@ -11441,7 +11441,7 @@
 			(uuid "0ffcd2f7-28ec-49d2-bd34-538f32b00625")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR03")
 					(unit 1)
@@ -11518,7 +11518,7 @@
 			(uuid "5321ca0e-6ee7-4585-8695-ff0c2b0bb071")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR04")
 					(unit 1)
@@ -11610,7 +11610,7 @@
 			(uuid "3d5b4cb7-a73f-4b28-bafc-23c66167f1d5")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "C2")
 					(unit 1)
@@ -11714,7 +11714,7 @@
 			(uuid "eb194114-9865-46fc-80ad-1475f1f8eee9")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "U3")
 					(unit 1)
@@ -11816,7 +11816,7 @@
 			(uuid "645a92e8-46e9-4e14-8ba8-64d7ffd026f8")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "U4")
 					(unit 1)
@@ -11906,7 +11906,7 @@
 			(uuid "a2eb25f5-e744-4e2c-82f1-3ef32baff986")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "C5")
 					(unit 1)
@@ -11984,7 +11984,7 @@
 			(uuid "0a36b637-e6da-4875-afa9-e22a16e1ce04")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR027")
 					(unit 1)
@@ -12061,7 +12061,7 @@
 			(uuid "9dba3305-fe4d-4d80-a059-849e47b34d66")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR026")
 					(unit 1)
@@ -12153,7 +12153,7 @@
 			(uuid "08966aac-9e33-4279-b39c-0c1bc1efa93e")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "C6")
 					(unit 1)
@@ -12255,7 +12255,7 @@
 			(uuid "645a92e8-46e9-4e14-8ba8-64d7ffd026f6")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "U4")
 					(unit 2)
@@ -12347,7 +12347,7 @@
 			(uuid "4a6b586d-e9ff-450d-a896-cba77723935c")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "C4")
 					(unit 1)
@@ -12424,7 +12424,7 @@
 			(uuid "6c10ba37-d6a3-4225-8339-b4bf19f1ae93")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR013")
 					(unit 1)
@@ -12516,7 +12516,7 @@
 			(uuid "59db28ad-4e7e-4d6d-9386-c14679d2d8ba")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "C9")
 					(unit 1)
@@ -12593,7 +12593,7 @@
 			(uuid "faa146b9-31ff-44ee-b87a-9caaa2e4d3cc")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR017")
 					(unit 1)
@@ -12702,7 +12702,7 @@
 			(uuid "172ea700-d6b4-401c-bc59-dce3a573286f")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "J2")
 					(unit 1)
@@ -12885,7 +12885,7 @@
 			(uuid "b107d44e-b824-44c8-b421-c7cdfbb7a4a1")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "U2")
 					(unit 1)
@@ -12975,7 +12975,7 @@
 			(uuid "b0264623-785a-44ce-86d2-df9d80e90bf2")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "R9")
 					(unit 1)
@@ -13052,7 +13052,7 @@
 			(uuid "2114e945-3f8f-42e3-b2af-6e86e3401068")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR02")
 					(unit 1)
@@ -13129,7 +13129,7 @@
 			(uuid "911c1f07-9d22-4956-96d3-c3322db18924")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR010")
 					(unit 1)
@@ -13206,7 +13206,7 @@
 			(uuid "a0e9aaed-8cc0-483e-a11f-9d9abe622d9f")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR018")
 					(unit 1)
@@ -13296,7 +13296,7 @@
 			(uuid "add6effa-0198-42da-b770-1ebc8a336eeb")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "R7")
 					(unit 1)
@@ -13374,7 +13374,7 @@
 			(uuid "135b64c2-e64f-4083-b430-04ec305d9e2e")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#FLG01")
 					(unit 1)
@@ -13451,7 +13451,7 @@
 			(uuid "1c59382e-7d42-4fc7-9f3c-7d8e7e86dbdf")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR012")
 					(unit 1)
@@ -13528,7 +13528,7 @@
 			(uuid "1f38b854-f17e-47df-9d3b-c175ffa4dc1c")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "#PWR037")
 					(unit 1)
@@ -13620,7 +13620,7 @@
 			(uuid "212b7d13-8618-4b64-8959-b3005ebee951")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "C8")
 					(unit 1)
@@ -13769,7 +13769,7 @@
 			(uuid "e930f518-e2ae-4eab-b7b5-4ab94190aca3")
 		)
 		(instances
-			(project "ft245_6502"
+			(project "replacia"
 				(path "/7dbea4db-5192-49a5-97c9-c54c75d9ab0d"
 					(reference "U1")
 					(unit 1)
