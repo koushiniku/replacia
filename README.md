@@ -2,15 +2,9 @@
 
 *This board is still in development.*
 
-This is a replacement for a number of "serial port" solutions for
-W65Cxx-based breadboard computers requiring either the W65C51N ACIA or
-custom logic and either a MAX232 and DB9 connector or breakout board with
-a serial-to-USB or parallel-to-USB chip.
+This is a replacement for a number of "serial port" solutions for W65Cxx-based breadboard computers requiring either the W65C51N ACIA or custom logic and either a MAX232 and DB9 connector or breakout board with a serial-to-USB or parallel-to-USB chip.
 
-This solution replaces all that on a single board with a FTDI FT245R (aka.
-USB Blaster) chip and some logic ICs, all on a 8x5 DIP16 board, which is
-smaller than the 14x6 DIP28 ACIA. The board supports USB2.0 with vertical
-USB.C connector.
+This solution replaces all that on a single board with a FTDI FT245R  chip and some logic ICs, all on a DIP16W board, which is smaller than the DIP28W ACIA. The board supports USB2.0 with avertical USB-C connector.
 
 ## Pin List
 
@@ -39,7 +33,4 @@ Bit | Name | Type | Description
 
 ## Register 1 &mdash; DATA
 
-When receive data is present, reading from this register returns a byte of
-data received from the remote host. This also clears the IRQ (if it was
-enabled). When the transmit buffer is empty, writing to this register
-transmits a byte of data to the remote host.
+When receive data is present, reading from this register returns a byte of data received from the remote host. This also clears the IRQ (if it was enabled). When the transmit buffer is empty, writing to this register transmits a byte of data to the remote host.
